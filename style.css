@@ -20,7 +20,7 @@ body{
     background-color: black;
     height: 75vh;
     width: 100%;
-    opacity: 0;
+    opacity: 0.69;
     position: absolute;
     top: 0;
 }
