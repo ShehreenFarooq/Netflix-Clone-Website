@@ -9,7 +9,7 @@ body{
 }
 
 .img{
-    background-image: url("/Netflix-Clone-Website/img1.jpg");
+    background-image: url("./img1.jpg");
     height: 75vh;
     position: relative;
     background-position: center center;
